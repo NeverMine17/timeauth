@@ -1,4 +1,4 @@
-# Time Authentication Attack Tool
+# Time Authentication Attack Tool (ported for Windows)
 
 Python Time Based Authentication Attack Tool
 
